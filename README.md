@@ -1,3 +1,9 @@
+# Setup
+pip install requests
+
+pip install futures
+
+pip install faker
 # Lệnh vào tool
 git clone https://github.com/User-xquyen/dao-check-mail
 
