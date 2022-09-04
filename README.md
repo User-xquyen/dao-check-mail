@@ -4,7 +4,6 @@ pip install requests
 pip install futures
 
 pip install faker
-#c
 # Lệnh vào tool
 git clone https://github.com/Xuan-QuyenDepzaivailon/mail
 
@@ -43,3 +42,5 @@ lfbc
 Nhập tên file lưu mail die(.txt):
 
 Nhập tên file để lưu mail đã lkfb(.txt):
+#Source Code
+python sourcetoolmail.py
